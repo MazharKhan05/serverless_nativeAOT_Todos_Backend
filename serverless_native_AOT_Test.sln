@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serverless_native_AOT_Test", "src\serverless_native_AOT_Test\serverless_native_AOT_Test.csproj", "{2E5C8EA7-B83C-44CF-9FB5-20526FD5D067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5C8EA7-B83C-44CF-9FB5-20526FD5D067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5C8EA7-B83C-44CF-9FB5-20526FD5D067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5C8EA7-B83C-44CF-9FB5-20526FD5D067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5C8EA7-B83C-44CF-9FB5-20526FD5D067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9D3ABDF-BA6C-4FAA-9B8A-6FDAF28CB59A}
+	EndGlobalSection
+EndGlobal
